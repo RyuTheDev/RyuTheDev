@@ -14,7 +14,6 @@
 </table>
 
 <p align="center">
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img src="twitter.png" width="30"> Follow me on Twitter!
-  </a>
+  <a href="https://x.com/Rimu54947352" target="_blank">
+    <img src="twitter.png" width="30"> </a>
 </p>
