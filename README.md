@@ -12,3 +12,9 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
+    <img src="twitter.png" width="30"> Follow me on Twitter!
+  </a>
+</p>
