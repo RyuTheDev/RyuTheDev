@@ -1,4 +1,4 @@
-# 🎵 Welcome to RyuTheDev's Special Repository! 🎵
+# Welcome to My Special Repository! 
 
 <table>
   <tr>
@@ -6,8 +6,7 @@
       <img src="a.gif" width="200">
     </td>
     <td>
-      <h1>🎤 I'm RyuTheDev, a passionate developer creating amazing projects! 🎤</h1>
-      <p>Stay tuned for more updates and exciting developments!</p>
+      <h1>The developer you asked for</h1>
     </td>
   </tr>
 </table>
