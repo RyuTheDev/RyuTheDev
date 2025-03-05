@@ -1,12 +1,14 @@
-# Welcome to My Special Repository! 
+# 🎵 Welcome to RyuTheDev's Special Repository! 🎵
 
 <table>
   <tr>
     <td>
-      <img src="a.gif" width="200">
+      <img src="a.gif" width="150">
     </td>
     <td>
-      <h1>I have 6 years of experience with Lua and 2 years with Unity and C#. I'm eager to learn more about Java and Python!</h1>
+      <h1>🎤 I'm RyuTheDev, a passionate developer creating amazing projects! 🎤</h1>
+      <p>I have 6 years of experience with Lua and 2 years with Unity and C#. I'm eager to learn more about Java and Python!</p>
+      <p>Stay tuned for more updates and exciting developments!</p>
     </td>
   </tr>
 </table>
